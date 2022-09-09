@@ -1,6 +1,6 @@
 ### Hi there,I'm xieyu 🐾👋
 
-我是是一个架构师，会一点 cloud native/ bigdata / ai，喜欢折腾各种新技术！
+我是一个架构师，会一点 cloud native/ bigdata / ai，喜欢折腾各种新技术！
 <!--
 **xytsinghua/xytsinghua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
