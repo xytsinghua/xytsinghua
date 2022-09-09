@@ -1,6 +1,6 @@
-## Hi there,I'm xieyu 🐾👋
+## <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/>  Hi there,I'm xieyu 🐾
 
-我是一个架构师，会一点 cloud native/ bigdata / ai，喜欢折腾各种新技术！
+我是一个架构师，会一点 java / python ，喜欢折腾各种新技术！
 
 **languages and tools:**  
 
