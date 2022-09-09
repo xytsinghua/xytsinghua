@@ -1,6 +1,6 @@
-## <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/>  Hi there,I'm xieyu 🐾
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you!</h1>
 
-我是一个架构师，会一点  java / python ，喜欢折腾各种新技术！
+I'm xieyu. I'm an architect with a little bit of java / python and love to toss with new technologies!
 
 **languages and tools:**  
 
