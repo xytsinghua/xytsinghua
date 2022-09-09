@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you!</h1>
 
-I'm xieyu. I'm an architect with a little bit of java / python and love to toss with new technologies!
+I'm xieyu :panda_face:. I'm an architect with a little bit of java / python and love to toss with new technologies!
 
 **languages and tools:**  
 
